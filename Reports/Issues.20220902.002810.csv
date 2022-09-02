@@ -1,0 +1,11 @@
+SessionID,Name,Description,Severity,Line,Column,ParentFile,Code
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Statement Not Supported,THE STATEMENT IS NOT SUPPORTED IN SNOWFLAKE,Low,43,5,unknown/teradata/script.sql,MSCEWI1040
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Error parsing the source code,UNRECOGNIZED TOKEN ON LINE 43 OF THE SOURCE CODE.,Critical,43,2,unknown/teradata/script.sql,MSCEWI1001
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Statement Not Supported,THE STATEMENT IS NOT SUPPORTED IN SNOWFLAKE,Low,42,28,unknown/teradata/script.sql,MSCEWI1040
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Error parsing the source code,UNRECOGNIZED TOKEN ON LINE 29 OF THE SOURCE CODE.,Critical,29,1,unknown/teradata/script.sql,MSCEWI1001
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Statement Not Supported,THE STATEMENT IS NOT SUPPORTED IN SNOWFLAKE,Low,27,2,unknown/teradata/script.sql,MSCEWI1040
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Error parsing the source code,UNRECOGNIZED TOKEN ON LINE 18 OF THE SOURCE CODE.,Critical,18,1,unknown/teradata/script.sql,MSCEWI1001
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Statement Not Supported,THE STATEMENT IS NOT SUPPORTED IN SNOWFLAKE,Low,14,62,unknown/teradata/script.sql,MSCEWI1040
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Error parsing the source code,UNRECOGNIZED TOKEN ON LINE 9 OF THE SOURCE CODE.,Critical,9,70,unknown/teradata/script.sql,MSCEWI1001
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Statement Not Supported,THE STATEMENT IS NOT SUPPORTED IN SNOWFLAKE,Low,9,43,unknown/teradata/script.sql,MSCEWI1040
+8dc8f7a6-7abd-4ae6-b0d2-099567c9e638,Error parsing the source code,UNRECOGNIZED TOKEN ON LINE 1 OF THE SOURCE CODE.,Critical,1,0,unknown/teradata/script.sql,MSCEWI1001

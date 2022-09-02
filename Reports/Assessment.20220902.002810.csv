@@ -1,0 +1,88 @@
+ProductName,Mobilize Snow Conversion Tool 9.0.7+master[8e901dc]-1219.667135
+CoreVersion,9.0.7
+AppVersion,Not Provided
+SqlFileCount,1
+SqlSizeMB,0
+OSVersion,Unix 5.4.0.1086
+SnowScript,False
+WorkloadName,
+PartitionKey,8dc8f7a6-7abd-4ae6-b0d2-099567c9e638
+LicenseData,5bafbd8d-c751-46ba-b78a-827baa66c987
+SystemRAM,Data not provided
+SystemCPU,Data not provided
+RunAsAdmin,Data not provided
+CreateSession,2022/09/02 0:28:17 +00:00
+StartConversion,2022/09/02 0:28:17 +00:00
+SQLLinesCount,39
+UnrecognizedElements,5
+UnrecognizedElementsLOC,39
+TotalFiles,1
+TotalFilesNotGenerated,0
+TotalLinesOfCode,39
+ConversionSpeed,18
+ElapsedTime,00:00:02
+TotalSize,1289
+EndConversion,2022/09/02 0:28:20 +00:00
+TimeParsing,1.2509368
+TimeFillSymbolStep1,0.0606227
+TimeFillSymbolStep2,0.0092602
+TimeResolveDependency,0.0046228
+TimePreprocessing,0.026348
+TimeTransformation,0.281491
+TotalErrors,5
+TotalWarnings,5
+TotalParsingErrors,5
+TotalConversionErrors,0
+TotalCharacterConversionRate,6.61
+TotalLoCConversionRate,2.56
+SqlIdentifiedObjects,0
+SqlIdentifiedQueries,0
+ObjectsSuccessfullyConverted,0
+QueriesSuccessfullyConverted,0
+TableObjectConversionRate,0
+TableCharacterConversionRate,0
+TableLoCConversionRate,0
+TableFullyConvertedOccurrences,0
+TableTotalOccurrences,0
+TableTotalParsingErrors,0
+TableTotalConversionErrors,0
+TableTotalWarnings,0
+TableTotalCharacters,0
+TableTotalLinesOfCode,0
+ViewObjectConversionRate,0
+ViewCharacterConversionRate,0
+ViewLoCConversionRate,0
+ViewFullyConvertedOccurrences,0
+ViewTotalOccurrences,0
+ViewTotalParsingErrors,0
+ViewTotalConversionErrors,0
+ViewTotalWarnings,0
+ViewTotalCharacters,0
+ViewTotalLinesOfCode,0
+ProcedureObjectConversionRate,0
+ProcedureCharacterConversionRate,0
+ProcedureLoCConversionRate,0
+ProcedureFullyConvertedOccurrences,0
+ProcedureTotalOccurrences,0
+ProcedureTotalParsingErrors,0
+ProcedureTotalConversionErrors,0
+ProcedureTotalWarnings,0
+ProcedureTotalCharacters,0
+ProcedureTotalLinesOfCode,0
+FunctionObjectConversionRate,0
+FunctionCharacterConversionRate,0
+FunctionLoCConversionRate,0
+FunctionFullyConvertedOccurrences,0
+FunctionTotalOccurrences,0
+FunctionTotalParsingErrors,0
+FunctionTotalConversionErrors,0
+FunctionTotalWarnings,0
+FunctionTotalCharacters,0
+FunctionTotalLinesOfCode,0
+FunctionMultiStatementScalarCount,0
+FunctionMultiStatementTableValuedCount,0
+FunctionSimpleScalarCount,0
+FunctionTableValuedCount,0
+UdfCallsInDDLCount,0
+UdfCallsInDMLCount,0
+CloseSession,2022/09/02 0:28:20 +00:00
